@@ -1,0 +1,17 @@
+A simple ember.js app that will lazy load a reporting frontend
+
+
+To run the ember.js app locally
+
+    npm install
+    gulp
+
+    python -m SimpleHTTPServer 3000
+
+    visit http://localhost:3000 to see the running app
+
+
+To run the javascript tests
+
+    npm install
+    gulp test
