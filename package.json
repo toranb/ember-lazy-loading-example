@@ -5,7 +5,7 @@
         "gulp-filter": "*",
         "gulp-concat": "*",
         "gulp-ember-handlebars": "*",
-        "gulp-es6-module-transpiler": "*"
+        "gulp-es6-module-transpiler": "0.1.3"
   },
   "devDependencies": {
         "gulp-karma": "*",
